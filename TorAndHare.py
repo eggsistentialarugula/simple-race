@@ -60,4 +60,4 @@ elif(posH > posT):
 else:
     print("It's a tie.")
 
-print('The tick value is ' + str(tick))
+print('The tick value is ' + str(tick) + '.')
